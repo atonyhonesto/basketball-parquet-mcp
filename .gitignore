@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/TestResults/
+**/*.parquet
+*.docx
+*.pdf
+*.eml
+*.msg
+*.log
+.env
+.vs/
